@@ -1,5 +1,10 @@
 # Autopilot Hardware Hash Collection Toolset
 
+Hi! I'm a network administrator with no prior scripting experience. I needed a quick and reliable way to collect hardware hashes from used PCs for Windows Autopilot. With the help of Microsoft Copilot, I created this simple toolset that runs directly from the OOBE screen using a USB stick.
+
+This project is shared in case it helps others in a similar situation.
+# Autopilot Hardware Hash Collection Toolset
+
 This toolset helps you collect Windows Autopilot hardware hashes from PCs at the OOBE screen, using a USB stick. It was developed with the help of Microsoft Copilot.
 
 ## 📁 Files Included
