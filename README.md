@@ -44,3 +44,8 @@ This script is essential for collecting the hardware hash. It should be included
     ``` Run-AutopilotHash.cmd ```
 
 ### Feel free to fork, improve, or share this toolset if it helps you or your team!
+
+## 📬 Contact
+
+If you encounter any issues or have suggestions, please open an issue on this repository.
+
